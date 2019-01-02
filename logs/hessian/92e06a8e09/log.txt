@@ -1,0 +1,2 @@
+[2018-12-27 03:22:00,698 /opt/conda/lib/python3.6/site-packages/track/trial.py:90] (re)initilized logging
+[2018-12-27 03:22:00,699 /opt/conda/lib/python3.6/site-packages/skeletor/launcher.py:97] Starting experiment!
